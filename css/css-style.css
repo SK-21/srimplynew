@@ -833,7 +833,8 @@ background: currentColor;}
 .link-hover a:hover{    color: #ff1f8e !important;}
 /***About page***/
 .breadcrumb-area {padding:150px 0px 90px 0px;     position:relative; overflow:hidden; text-align:center;}
-.banner-1{background: url(../images/banner-3.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
+.banner-1{background: url(../img/banner-2.jpg);   background-repeat: no-repeat;    background-size: cover; 
+    background-position:initial;}
 .breadcrumb-area:before{
 content: '';   position: absolute;   top: 0;   height: 100%;   width: 100%;   opacity: .85;     right: 0;    left: 0; z-index:0;
 background: -moz-linear-gradient(-45deg, #ffdee9 0%, #c8fff4  100%);
@@ -965,10 +966,10 @@ top: 50%;
 margin-top: -12.5px;}
 .pv-:hover .item-image img {transform: scale(1.0);}
 /***Service page***/
-.banner-2{background: url(../images/banner-6.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
+.banner-2{background: url(../img/service-banner.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
 .service{overflow:hidden;}
 .service .common-heading h2 {  margin-bottom: 20px;}
-.bg-lights{   background: #f8ffff url(../fonts/shape-bg-line.svg);   background-size: 50px;}
+.bg-lights{   background: #f8ffff ;background-size: 50px;}/*url(../fonts/shape-bg-line.svg);  */
 .cta-area{
 position: relative;
 overflow: hidden;
