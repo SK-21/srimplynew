@@ -738,7 +738,7 @@ background: -moz-linear-gradient(top, #fffdf2 0%, #ffeff5 100%);
 background: -webkit-linear-gradient(top, #fffdf2 0%,#ffeff5 100%);
 background: linear-gradient(to bottom, #fffdf2 0%,#ffeff5 100%);*/
 padding:80px 0;}
-.footer-row2 { color:#000;background:#0A2233,-webkit-linear-gradient(right, #03f7ff 0%,#0351c5 100%);
+.footer-row2 { color:#000;background:#0A2233;-webkit-linear-gradient(right, #03f7ff 0%,#0351c5 100%);
      padding: 10px 0 25px 0; 
 background-size: cover; background-position: center;
 }
