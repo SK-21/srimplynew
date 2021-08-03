@@ -694,7 +694,7 @@ height: 50px;
 -webkit-border-radius: 100px ;
 border-radius: 100px;
 color: #fff;
-/*background: url(../fonts/icons-up-arrow.svg) #205ed0;*/
+background: url(../fonts/icons-up-arrow.svg) #205ed0;
 background-repeat: no-repeat;
 background-size: 15px;
 background-position: center center;
@@ -839,9 +839,9 @@ background: currentColor;}
     background-position:initial;}
 .breadcrumb-area:before{
 content: '';   position: absolute;   top: 0;   height: 100%;   width: 100%;   opacity: .85;     right: 0;    left: 0; z-index:0;
-background: -moz-linear-gradient(-45deg, #ffdee9 0%, #c8fff4  100%);
-background: -webkit-linear-gradient(-45deg, #ffdee9 0%,#c8fff4  100%);
-background: linear-gradient(135deg, #ffdee9 0%,#c8fff4  100%);}
+background: -moz-linear-gradient(-45deg, #c5daff 0%, #c1f3ff  100%);
+background: -webkit-linear-gradient(-45deg, #c5daff 0%,#c1f3ff 100%);
+background: linear-gradient(135deg, #c5daff 0%,#c1f3ff 100%);}
 .breadcrumb-area:after{
 content: ''; z-index:0;
 background: url(../images/banner-banner-shap-2.png);
