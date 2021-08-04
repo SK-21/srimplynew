@@ -1,35 +1,13 @@
 
 /**Table of contents**
-    1. Default css
-    - Header section
-    - Hero section
-    - About section
-    - Service section
-    - Statistics section
-    - Portfolio Section
-    - Clients section
-    - Work category section
-    - Testimonial section
-    - Enquire form section
-    - Our office section
-    - Reviews section
-    - Footer section
-    2. About page
-    3. Team page
-    4. Portfolio page
-    5. Service page
-    6. Service details page
-    7. Pricing page
-    8. Case study page
-    9. Blog page
-    10.Contact page
-    11.404 page
-    12.Faq & accordion page
-    13.Freelance Homepage
-    14.Lead Generation Homepage
-    15.Help css
-    16.Gredient css
-    17.Dark mode css
+    1 Default css
+    2 Header section
+    3 Hero section
+    4 Footer section
+    5 About page
+    6 Team page
+    7 Service page
+    8 Contact page
 **/
 /*scrollbar theme*/
 ::-webkit-scrollbar {width:15px;}
@@ -1474,38 +1452,6 @@ background: #c1eeff;
 background: -moz-linear-gradient(top, #c1eeff 0%, #f5faff 100%);
 background: -webkit-linear-gradient(top, #c1eeff 0%,#f5faff 100%);
 background: linear-gradient(to bottom, #c1eeff 0%,#f5faff 100%);}
-.bg-gradient5{
-background: #fff6f3     ;
-background: -moz-linear-gradient(top, #fff6f3 0%, #fffefb 100%);
-background: -webkit-linear-gradient(top, #fff6f3 0%,#fffefb 100%);
-background: linear-gradient(to bottom, #fff6f3 0%,#fffefb 100%);}
-.bg-gradient6{
-background: #e8fffc ;
-background: -moz-linear-gradient(top, #e8fffc 0%, #fff4f4  100%);
-background: -webkit-linear-gradient(top, #e8fffc 0%,#fff4f4  100%);
-background: linear-gradient(to bottom, #e8fffc 0%,#fff4f4  100%);}
-.bg-gradient7{
-background: #ffe2e2;
-background: -moz-linear-gradient(top, #ffe2e2 0%, #fff9f4 100%);
-background: -webkit-linear-gradient(top, #ffe2e2 0%,#fff9f4 100%);
-background: linear-gradient(to bottom, #ffe2e2 0%,#fff9f4 100%);}
-.bg-gradient8{
-background: #fff8fb;
-background: -moz-linear-gradient(top, #fff8fb 0%, #d0fcf6 100%);
-background: -webkit-linear-gradient(top, #fff8fb 0%,#d0fcf6 100%);
-background: linear-gradient(to bottom, #fff8fb 0%,#d0fcf6 100%);}
-.bg-gradient9{
-background: #e5ffee;
-background: -moz-linear-gradient(top, #ffe2e2 0%, #fff9f4 100%);
-background: -webkit-linear-gradient(top, #ffe2e2 0%,#fff9f4 100%);
-background: linear-gradient(to bottom, #e5ffee 0%,#e2f6ff 100%);}
-.bg-10{
-background: #e4fffe;
-background: -moz-linear-gradient(top, #e4fffe 0%, #ffedf3 100%);
-background: -webkit-linear-gradient(top, #e4fffe 0%,#ffedf3 100%);
-background: linear-gradient(to bottom, #e4fffe 0%,#ffedf3 100%);}
-
-
 
 /*******************/
 
