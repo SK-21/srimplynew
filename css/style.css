@@ -587,7 +587,7 @@ border: 0;
 border-bottom: 2px solid #e6e6e6;
 -webkit-border-radius: 4px;
 border-radius: 4px;}
-.custom-control-input:checked~.custom-control-label::before {color: #fff;   border-color: #ff1f8e; background-color: #ff1f8e;}
+/* .custom-control-input:checked~.custom-control-label::before {color: #fff;   border-color: #ff1f8e; background-color: #ff1f8e;} */
 .custom-control-input:focus~.custom-control-label::before {
 -webkit-box-shadow: 0 3px 6px rgba(91,130,148,.08);
 box-shadow: 0 3px 6px rgba(91,130,148,.08);}
