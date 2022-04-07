@@ -264,8 +264,8 @@ border: none;
 border-radius: 100px;
 display: inline-block;
 position: relative;
--webkit-box-shadow: 0 10px 15px 0px rgba(233, 30, 99, .15);
-box-shadow: 0 10px 15px 0px rgba(233, 30, 99, .15);}
+-webkit-box-shadow: 0 10px 15px 0px rgba(91,210,252, .15);
+box-shadow: 0 10px 15px 0px rgba(91,210,252, .15);}
 .header-heading h1{ font-size: 50px;   line-height: 62px; font-weight: 700;  margin-bottom: 30px;}
 .header-heading p{font-size: 20px;  line-height: 30px;  margin-bottom: 35px;}
 /**About section**/
