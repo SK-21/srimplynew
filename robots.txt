@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://sk-21.github.io/srimplynew/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
