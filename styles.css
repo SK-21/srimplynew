@@ -247,6 +247,7 @@ body {
     margin: 0 auto;
 }
 
+
 .hero-text {
     text-align: left;
 }
@@ -892,7 +893,7 @@ body {
         top: 100%;
         left: 0;
         right: 0;
-        background: var(--bg-overlay);
+        background: var(--bg-primary);
         backdrop-filter: blur(20px);
         flex-direction: column;
         padding: var(--space-lg);
@@ -908,6 +909,15 @@ body {
         transform: translateY(0);
         opacity: 1;
         visibility: visible;
+    }
+    
+    .nav-link {
+        color: var(--text-primary);
+        text-shadow: none;
+    }
+    
+    .hero-visual {
+        display: none;
     }
     
     .nav-toggle {
@@ -1842,6 +1852,28 @@ html {
     box-shadow: var(--shadow-lg);
 }
 
+.email-button {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-sm);
+    background: var(--primary-color);
+    color: white;
+    padding: var(--space-md) var(--space-lg);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-top: var(--space-md);
+    transition: var(--transition);
+    box-shadow: var(--shadow-sm);
+}
+
+.email-button:hover {
+    background: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
 .contact-icon {
     margin-bottom: var(--space-lg);
 }
@@ -2328,6 +2360,15 @@ html {
         padding-top: var(--space-xl);
         transition: left 0.3s ease;
         z-index: 1000;
+    }
+    
+    .nav-link {
+        color: var(--text-primary);
+        text-shadow: none;
+    }
+    
+    .hero-visual {
+        display: none;
     }
     
     .nav-menu.active {
