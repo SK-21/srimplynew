@@ -92,6 +92,8 @@ body {
     z-index: 1000;
     transition: all 0.3s ease;
     height: 70px;
+    display: flex;
+    align-items: center;
 }
 
 .navbar.scrolled {
@@ -103,7 +105,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: var(--space-sm) var(--space-lg);
+    padding: 0 var(--space-lg);
+    width: 100%;
 }
 
 .logo {
